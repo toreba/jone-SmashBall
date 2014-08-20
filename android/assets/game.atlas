@@ -1,0 +1,20 @@
+
+game.png
+size: 98,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_smasher
+  rotate: false
+  xy: 2, 36
+  size: 96, 23
+  orig: 96, 23
+  offset: 0, 0
+  index: -1
+red_ball
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
